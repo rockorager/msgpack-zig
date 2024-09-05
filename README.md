@@ -10,7 +10,7 @@ allocation than JSON so the return values are slightly different.
 ## Usage
 
 > [!NOTE]
-> Refer to the [documentation](https://github.com/rockorager/msgpack-zig) for additional usage.
+> Refer to the [documentation](https://rockorager.github.io/msgpack-zig/) for additional usage.
 
 There are two main functions provided by msgpack-zig:
 
